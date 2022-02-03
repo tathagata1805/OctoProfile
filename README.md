@@ -2,8 +2,6 @@
 
 A nicer look at your GitHub Profile! With charts!
 
-![demo](https://raw.githubusercontent.com/bchiang7/octoprofile/master/static/og.png)
-
 Built with:
 
 - [Next.js](https://nextjs.org/)
