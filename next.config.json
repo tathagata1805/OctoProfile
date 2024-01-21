@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "name": "octoprofile",
+    "module.exports": {
+        "target": "serverless"
+    },
+    "builds": [
+        {
+            "src": "package.json",
+            "use": "@vercel/next"
+        }
+    ]
+}
