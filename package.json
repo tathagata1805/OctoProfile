@@ -6,9 +6,7 @@
   "author": "",
   "license": "ISC",
   "main": "index.js",
-  "engines": {
-    "node": "14.8.0"
-    },
+  "engines": { "node": "20.x" },
   "scripts": {
     "dev": "next",
     "build": "next build",
